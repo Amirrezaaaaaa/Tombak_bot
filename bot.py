@@ -2,7 +2,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 from telegram import Update
 import asyncio
 
-bot_token = "7962689863:AAElTSY-_ceMI9cyRRUicKQUxOgt0FJH1q0"
+bot_token = "7962689863:AAGNUoKV2YCRdzySiKHDwyD-N6hnrB6OWCw"
 
 
 async def porn_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
